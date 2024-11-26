@@ -57,7 +57,6 @@ void main() {
   List<Funcionario> funcionarios = [func1, func2];
 
   EquipeProjeto equipeProjeto = EquipeProjeto('Projeto X', funcionarios);
-
-  String jsonString = jsonEncode(equipeProjeto.toJson());
+  
   print(const JsonEncoder.withIndent('  ').convert(equipeProjeto.toJson()));
 }
