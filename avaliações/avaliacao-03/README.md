@@ -7,3 +7,4 @@ Para isso :
 3) Fazer um print da execução;
 4) Fazer o push para o github na aba avaliacao-03. 
 5) Postar na entrega da tarefa o link da pasta do github.
+<img src="Captura de Tela 2024-11-26 às 14.12.45.png" />
