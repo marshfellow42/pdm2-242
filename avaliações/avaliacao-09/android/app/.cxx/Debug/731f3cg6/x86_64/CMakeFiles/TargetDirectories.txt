@@ -1,0 +1,2 @@
+C:/Users/darkm/OneDrive/Documentos/avaliacao_09/android/app/.cxx/Debug/731f3cg6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/darkm/OneDrive/Documentos/avaliacao_09/android/app/.cxx/Debug/731f3cg6/x86_64/CMakeFiles/rebuild_cache.dir
